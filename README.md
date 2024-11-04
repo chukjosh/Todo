@@ -24,7 +24,7 @@ A simple, user-friendly web application for managing tasks and to-do lists. This
 3. **Usage Instructions:** Add tasks, mark them as complete, and remove them as needed.
 
 ## Live Demo
-Check out the live demo of the application at [GitHub Pages URL].
+Check out the live demo of the application at https://chukjosh.github.io/Todo/ .
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests!
