@@ -29,8 +29,5 @@ Check out the live demo of the application at [GitHub Pages URL].
 ## Contributing
 Feel free to contribute by submitting issues or pull requests!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Conclusion
 This Todo application is an excellent way to stay organized and manage your tasks effectively.
