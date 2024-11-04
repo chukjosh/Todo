@@ -1,7 +1,7 @@
 # Todo
 
 ## Title
-**Web-based Todo Application**
+**Simple Web-based Todo Application**
 
 ## Description
 A simple, user-friendly web application for managing tasks and to-do lists. This project allows users to create, read, update, and delete tasks efficiently. It serves as a practical tool for anyone looking to organize their daily activities.
@@ -19,7 +19,7 @@ A simple, user-friendly web application for managing tasks and to-do lists. This
 - **GitHub Pages:** Hosting solution for easy access and sharing
 
 ## Getting Started
-1. **Clone the Repository:** Use `git clone <repository-url>` to get a local copy.
+1. **Clone the Repository:** Use `git clone https://github.com/chukjosh/Todo.git` to get a local copy.
 2. **Open in Browser:** Simply open the `index.html` file in any modern web browser.
 3. **Usage Instructions:** Add tasks, mark them as complete, and remove them as needed.
 
